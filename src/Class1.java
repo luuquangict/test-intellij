@@ -41,12 +41,15 @@ public class Class1 {
         y = 1000;
         y = 3;
         y = 5;
+        y = 100;
+        int m = 10000;
 
         final double pi;
         pi = 1;
 
         // đúng: true => bóng đèn được bật
         // sai: false => bóng đèn tắt
+        // xin chào các bạn
 
         System.out.println("hello world3");
         System.out.println("hello world3");
