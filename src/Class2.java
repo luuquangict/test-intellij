@@ -8,4 +8,5 @@ public class Class2 {
 
     // This is class 2
     // Add new line 1
+    // Add new line 2
 }
